@@ -15,7 +15,7 @@ O game funciona de maneira simples, o jogador(usuário) escolhe entre os 3 níve
 
 ## 💻 Tecnologias utilizadas
 ### Front end
-- HTML / Bootstrap / JS
+- HTML / CSS3 / JS
 
 ## 👨‍💻👩‍💻Como executar o projeto
 ```bash
