@@ -28,7 +28,7 @@ Basta dar 2 cliques no arquivo index.html
 
 ## 🧑🏾‍💻 Autor
 Antônio Fernando de Araújo Silva
-### Como entrar em contato
+### Como entrar em contato ?
 Caso queira discutir ou surgiu alguma dúvida pode estar entrando em contato:
 
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afas@academico.ufpb.br)
