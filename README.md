@@ -11,7 +11,7 @@ O game funciona de maneira simples, o jogador(usuário) escolhe entre os 3 níve
 
 ### Layout Web
 
-![Imagem 1](https://github.com/antoniofernandodearujo/game_mata_mosquito/blob/main/assets/img1.png)![Imagem 2](https://github.com/antoniofernandodearujo/game_mata_mosquito/blob/main/assets/img2.png)![Imagem 3](https://github.com/antoniofernandodearujo/game_mata_mosquito/blob/main/assets/img3.png)
+![Imagem 1](https://github.com/antoniofernandodearujo/game_mata_mosquito/blob/main/assets/img1.png)
 
 ## 💻 Tecnologias utilizadas
 ### Front end
