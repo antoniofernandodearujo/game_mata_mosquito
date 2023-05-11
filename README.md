@@ -1,4 +1,4 @@
-# game_mata_mosquito
+# game_kill_mosquito
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/antoniofernandodearujo/app_orcamento_pessoal/blob/main/LICENSE)
 
 ## 👀 About the project
