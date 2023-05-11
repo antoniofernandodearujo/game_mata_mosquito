@@ -18,17 +18,18 @@ The game works in a simple way, the player (user) chooses between the 3 difficul
 - HTML / CSS3 / JS
 
 ## 👨‍💻👩‍💻How to run the project
-```bash
-# clone the repository
-git clone https://github.com/antoniofernandodearujo/game_mata_mosquito
 
-# open index file
-Basta dar 2 cliques no arquivo index.html
+- clone the repository
+```bash
+git clone https://github.com/antoniofernandodearujo/game_mata_mosquito
+```
+- open index file
+```bash
+Just double click on the index.html file
 ```
 
 ## 🧑🏾‍💻 Author
-Antônio Fernando de Araújo Silva
-### Como entrar em contato ?
-Caso queira discutir ou surgiu alguma dúvida pode estar entrando em contato:
-
+Antonio Fernando de Araujo Silva
+### How to contact us?
+If you want to discuss or if you have any questions, please contact:
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afas@academico.ufpb.br)
